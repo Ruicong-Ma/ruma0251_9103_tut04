@@ -2,8 +2,8 @@
 
 I found an interesting interactive rendering on the openprocessing website. It generates particles with different motion trajectories by clicking on the screen, and these particles move according to changes in a certain dynamic field. The effect uses a series of mathematical functions to generate different curves, giving a dynamic, complex visual effect. I wanted to add this effect to Edvard Munch's work "The Scream". The work is mainly curved, adding dynamic change effect will make the work more lively and interesting.
 
-![An image of the OpenProcessing](readmeImages/OpenProcessing1.png)
-![An image of the OpenProcessing](readmeImages/OpenProcessing2.png)
+![An image of the OpenProcessing1](readmeImages/OpenProcessing1.png)
+![An image of the OpenProcessing2](readmeImages/OpenProcessing2.png)
 
 **Part 2**
 
