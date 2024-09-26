@@ -12,5 +12,6 @@ variation is used to switch variables of different dynamic field functions, whic
 The variables xScale, yScale, and centerX, centerY define the coordinate system of the particle, mapping the coordinates of the screen to different scales to facilitate the calculation of the particle's motion.
 
 ![An image of the OpenProcessing](readmeImages/OpenProcessing3.png)
-[Link Text](https://openprocessing.org/sketch/751983)
-[Link Text](https://openprocessing.org/sketch/751983)
+[Screenshot](https://openprocessing.org/sketch/751983)
+
+[Coding Technique](https://openprocessing.org/sketch/751983)
